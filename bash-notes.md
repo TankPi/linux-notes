@@ -1,1 +1,2 @@
 - **pwd** Print Working Directory - ie. Where are we currently.
+- **file** obtain information about what type of file a file or directory is.
